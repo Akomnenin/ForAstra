@@ -1,0 +1,20 @@
+{
+  "protocol": "forastra-smoke-v1",
+  "test_id": "40851280-6422-4ca0-bc90-3256a14d2145",
+  "source": "cloud-python",
+  "python_version": "3.11.17",
+  "matlab_result_validated": true,
+  "python_result": {
+    "operation": "matrix_multiply",
+    "C": [
+      [
+        19,
+        22
+      ],
+      [
+        43,
+        50
+      ]
+    ]
+  }
+}
